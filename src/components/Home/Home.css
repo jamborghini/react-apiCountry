@@ -1,0 +1,21 @@
+/*
+ * Home css File
+*/
+
+.Home {
+    text-align: center;
+}
+
+.spinLogo{
+    width: 400px;
+    animation: spinLogo 2s infinite linear;
+}
+
+@keyframes spinLogo{
+    from{
+        transform: rotate(0deg)
+        ;}
+    to{
+        transform: rotate(360deg);
+    }
+}
