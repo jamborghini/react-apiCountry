@@ -1,6 +1,5 @@
 # Startup React project. Don't extpect much.
 (there may be performace issues caused by rendering 250 items without virtual scrolling)
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
