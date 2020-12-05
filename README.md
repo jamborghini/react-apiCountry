@@ -1,4 +1,4 @@
-# Startup React project. Don't extpect much.
+
 (there may be performace issues caused by rendering 250 items without virtual scrolling)
 
 ## Available Scripts
